@@ -1,0 +1,10 @@
+.toolbar{
+    background-color: blue;
+    text-align: center;
+    text-decoration-color: beige;
+    color: beige;
+    height: 200px;
+    vertical-align: middle;
+    line-height: 90px;   
+    font-size: large;
+}
